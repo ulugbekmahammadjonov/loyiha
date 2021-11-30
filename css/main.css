@@ -1,0 +1,13 @@
+.main-header__brand img{
+    width: 64px;
+}
+
+.main-navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+ 
+.main-navigation-item{
+    display: inline-block;
+    padding: 10px;
+}
